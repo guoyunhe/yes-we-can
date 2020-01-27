@@ -26,8 +26,8 @@ jobs:
           CI: true
 
       - name: Deploy To GitHub Pages
-          uses: JamesIves/github-pages-deploy-action@releases/v3
-          with:
-            ACCESS_TOKEN: ${{ secrets.GH_PAT }}
-            BRANCH: gh-pages
-            FOLDER: build
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.GH_PAT }}
+          BRANCH: gh-pages
+          FOLDER: build
