@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecd1b610.chunk.css",
-    "main.js": "/static/js/main.4a13a89b.chunk.js",
-    "main.js.map": "/static/js/main.4a13a89b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b79e6125.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b79e6125.js.map",
-    "static/js/2.fb5f4aa2.chunk.js": "/static/js/2.fb5f4aa2.chunk.js",
-    "static/js/2.fb5f4aa2.chunk.js.map": "/static/js/2.fb5f4aa2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b6916fcfc176b03a17252cd7fd40b5f5.js": "/precache-manifest.b6916fcfc176b03a17252cd7fd40b5f5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ecd1b610.chunk.css.map": "/static/css/main.ecd1b610.chunk.css.map",
-    "static/js/2.fb5f4aa2.chunk.js.LICENSE": "/static/js/2.fb5f4aa2.chunk.js.LICENSE",
-    "static/media/TextBorderThumb.css": "/static/media/photo-1.13976c55.jpg"
+    "main.css": "https://guoyunhe.github.io/yes-we-can/static/css/main.312befd5.chunk.css",
+    "main.js": "https://guoyunhe.github.io/yes-we-can/static/js/main.a3d529c8.chunk.js",
+    "main.js.map": "https://guoyunhe.github.io/yes-we-can/static/js/main.a3d529c8.chunk.js.map",
+    "runtime-main.js": "https://guoyunhe.github.io/yes-we-can/static/js/runtime-main.e626dc16.js",
+    "runtime-main.js.map": "https://guoyunhe.github.io/yes-we-can/static/js/runtime-main.e626dc16.js.map",
+    "static/js/2.fb5f4aa2.chunk.js": "https://guoyunhe.github.io/yes-we-can/static/js/2.fb5f4aa2.chunk.js",
+    "static/js/2.fb5f4aa2.chunk.js.map": "https://guoyunhe.github.io/yes-we-can/static/js/2.fb5f4aa2.chunk.js.map",
+    "index.html": "https://guoyunhe.github.io/yes-we-can/index.html",
+    "precache-manifest.8970adc957db538a7a24febe879500fb.js": "https://guoyunhe.github.io/yes-we-can/precache-manifest.8970adc957db538a7a24febe879500fb.js",
+    "service-worker.js": "https://guoyunhe.github.io/yes-we-can/service-worker.js",
+    "static/css/main.312befd5.chunk.css.map": "https://guoyunhe.github.io/yes-we-can/static/css/main.312befd5.chunk.css.map",
+    "static/js/2.fb5f4aa2.chunk.js.LICENSE": "https://guoyunhe.github.io/yes-we-can/static/js/2.fb5f4aa2.chunk.js.LICENSE",
+    "static/media/TextBorderThumb.css": "https://guoyunhe.github.io/yes-we-can/static/media/photo-1.13976c55.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b79e6125.js",
+    "static/js/runtime-main.e626dc16.js",
     "static/js/2.fb5f4aa2.chunk.js",
-    "static/css/main.ecd1b610.chunk.css",
-    "static/js/main.4a13a89b.chunk.js"
+    "static/css/main.312befd5.chunk.css",
+    "static/js/main.a3d529c8.chunk.js"
   ]
 }
