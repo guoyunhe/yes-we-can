@@ -1,0 +1,14 @@
+.home {
+  padding: 1rem;
+}
+
+.home__list {
+  display: flex;
+  margin: -1rem;
+}
+
+.home__list .thumb {
+  flex: 0 1 auto;
+  margin: 1rem;
+  flex-flow: row wrap;
+}

@@ -1,0 +1,7 @@
+.text-border {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: transparent;
+  -webkit-text-stroke: 2px white;
+}

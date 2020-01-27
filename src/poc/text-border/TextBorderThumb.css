@@ -1,0 +1,8 @@
+.text-border-thumb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../img/photo-1.jpg");
+  background-size: cover;
+  background-position: center;
+}

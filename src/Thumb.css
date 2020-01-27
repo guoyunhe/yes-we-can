@@ -1,0 +1,11 @@
+.thumb {
+  box-sizing: border-box;
+  display: block;
+  cursor: pointer;
+  width: 320px;
+  height: 180px;
+  border-radius: 1rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3) inset;
+  color: inherit;
+  text-decoration: inherit;
+}

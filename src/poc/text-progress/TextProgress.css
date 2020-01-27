@@ -1,0 +1,24 @@
+.text-progress {
+  position: relative;
+  width: 200px;
+  height: 30px;
+  line-height: 30px;
+}
+
+.text-progress__bar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.text-progress__bar--foreground {
+  color: white;
+  background: cadetblue;
+}
+
+.text-progress__bar--background {
+  color: black;
+  background: lightgray;
+}
