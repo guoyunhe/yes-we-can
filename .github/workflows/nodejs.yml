@@ -15,7 +15,7 @@ jobs:
       - name: Build React Application
         run: |
           npm ci
-          PUBLIC_URL=https://guoyunhe.github.io/yes-we-can/ npm run build
+          npm run build
         env:
           CI: true
 

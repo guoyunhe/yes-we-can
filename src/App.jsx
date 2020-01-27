@@ -5,7 +5,7 @@ import Home from "./Home";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Switch>
           <Route path="/">
