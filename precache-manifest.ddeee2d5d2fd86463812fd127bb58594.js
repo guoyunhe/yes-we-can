@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16e04aa3447a667587cac070fc0126dc",
+    "revision": "8fca43a67429ed890d1424c68010bbfe",
     "url": "/yes-we-can/index.html"
   },
   {
-    "revision": "a0481d91633848e2fa8f",
-    "url": "/yes-we-can/static/css/main.8862b9c8.chunk.css"
+    "revision": "9111f3c20d6d944ec2cd",
+    "url": "/yes-we-can/static/css/main.c17413e9.chunk.css"
   },
   {
     "revision": "d759bd2684ca101afe87",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yes-we-can/static/js/2.fb5f4aa2.chunk.js.LICENSE"
   },
   {
-    "revision": "a0481d91633848e2fa8f",
-    "url": "/yes-we-can/static/js/main.0405dda8.chunk.js"
+    "revision": "9111f3c20d6d944ec2cd",
+    "url": "/yes-we-can/static/js/main.07070556.chunk.js"
   },
   {
     "revision": "b385eee59cdecee67566",
