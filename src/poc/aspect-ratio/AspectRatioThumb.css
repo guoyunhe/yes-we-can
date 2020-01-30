@@ -1,0 +1,16 @@
+.aspect-ratio-thumb .aspect-ratio {
+  background: palevioletred;
+  color: white;
+  width: 20%;
+  animation: aspect-ratio-size-change 0.5s alternate infinite;
+}
+
+@keyframes aspect-ratio-size-change {
+  from {
+    width: 20%;
+  }
+
+  to {
+    width: 80%;
+  }
+}

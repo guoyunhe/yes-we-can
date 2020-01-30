@@ -4,6 +4,7 @@ import TextProgressThumb from "./poc/text-progress/TextProgressThumb";
 import WordBreakerThumb from "./poc/word-breaker/WordBreakerThumb";
 
 import "./Home.css";
+import AspectRatioThumb from "./poc/aspect-ratio/AspectRatioThumb";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <TextBorderThumb />
         <TextProgressThumb />
         <WordBreakerThumb />
+        <AspectRatioThumb />
       </div>
     </div>
   );
