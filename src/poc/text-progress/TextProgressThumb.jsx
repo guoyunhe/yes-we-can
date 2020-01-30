@@ -1,12 +1,14 @@
 import React from "react";
 import Thumb from "../../Thumb";
 import TextProgress from "./TextProgress";
-import "./TextProgressThumb.css";
+import CentralLayout from "../central-layout/CentralLayout";
 
 export default function TextProgressThumb() {
   return (
     <Thumb to="/text-progress" className="text-progress-thumb">
-      <TextProgress percentage="50" />
+      <CentralLayout>
+        <TextProgress percentage="50" />
+      </CentralLayout>
     </Thumb>
   );
 }

@@ -1,0 +1,11 @@
+.central-layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.central-layout > * {
+  max-width: 100%;
+}
