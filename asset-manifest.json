@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/yes-we-can/static/css/main.17f3ccf9.chunk.css",
-    "main.js": "/yes-we-can/static/js/main.68c236e0.chunk.js",
-    "main.js.map": "/yes-we-can/static/js/main.68c236e0.chunk.js.map",
+    "main.css": "/yes-we-can/static/css/main.6755c3d8.chunk.css",
+    "main.js": "/yes-we-can/static/js/main.66af434d.chunk.js",
+    "main.js.map": "/yes-we-can/static/js/main.66af434d.chunk.js.map",
     "runtime-main.js": "/yes-we-can/static/js/runtime-main.fe4c1079.js",
     "runtime-main.js.map": "/yes-we-can/static/js/runtime-main.fe4c1079.js.map",
-    "static/js/2.fb5f4aa2.chunk.js": "/yes-we-can/static/js/2.fb5f4aa2.chunk.js",
-    "static/js/2.fb5f4aa2.chunk.js.map": "/yes-we-can/static/js/2.fb5f4aa2.chunk.js.map",
+    "static/css/2.b2ecea26.chunk.css": "/yes-we-can/static/css/2.b2ecea26.chunk.css",
+    "static/js/2.d9b713c5.chunk.js": "/yes-we-can/static/js/2.d9b713c5.chunk.js",
+    "static/js/2.d9b713c5.chunk.js.map": "/yes-we-can/static/js/2.d9b713c5.chunk.js.map",
     "index.html": "/yes-we-can/index.html",
-    "precache-manifest.789e829e2faa849bb7e377e97995966e.js": "/yes-we-can/precache-manifest.789e829e2faa849bb7e377e97995966e.js",
+    "precache-manifest.74055f700b964547222f126a5ec7481a.js": "/yes-we-can/precache-manifest.74055f700b964547222f126a5ec7481a.js",
     "service-worker.js": "/yes-we-can/service-worker.js",
-    "static/css/main.17f3ccf9.chunk.css.map": "/yes-we-can/static/css/main.17f3ccf9.chunk.css.map",
-    "static/js/2.fb5f4aa2.chunk.js.LICENSE": "/yes-we-can/static/js/2.fb5f4aa2.chunk.js.LICENSE",
-    "static/media/TextBorderThumb.css": "/yes-we-can/static/media/photo-1.13976c55.jpg"
+    "static/css/2.b2ecea26.chunk.css.map": "/yes-we-can/static/css/2.b2ecea26.chunk.css.map",
+    "static/css/main.6755c3d8.chunk.css.map": "/yes-we-can/static/css/main.6755c3d8.chunk.css.map",
+    "static/js/2.d9b713c5.chunk.js.LICENSE": "/yes-we-can/static/js/2.d9b713c5.chunk.js.LICENSE",
+    "static/media/TextBorderThumb.css": "/yes-we-can/static/media/photo-1.13976c55.jpg",
+    "static/media/remixicon.css": "/yes-we-can/static/media/remixicon.e557a8c5.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.fe4c1079.js",
-    "static/js/2.fb5f4aa2.chunk.js",
-    "static/css/main.17f3ccf9.chunk.css",
-    "static/js/main.68c236e0.chunk.js"
+    "static/css/2.b2ecea26.chunk.css",
+    "static/js/2.d9b713c5.chunk.js",
+    "static/css/main.6755c3d8.chunk.css",
+    "static/js/main.66af434d.chunk.js"
   ]
 }
