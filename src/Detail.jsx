@@ -6,7 +6,9 @@ export default function Detail({ children }) {
   return (
     <div className="detail">
       <nav>
-        <Link to="/">Return to list</Link>
+        <Link to="/" className="detail__back-link">
+          <i class="ri-arrow-go-back-line"></i>
+        </Link>
       </nav>
       {children}
     </div>

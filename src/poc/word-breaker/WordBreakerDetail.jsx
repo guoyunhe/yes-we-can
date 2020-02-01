@@ -3,13 +3,13 @@ import React from "react";
 import Detail from "../../Detail";
 import JsxCode from "../../JsxCode";
 import CssCode from "../../CssCode";
-import jsx from "!!raw-loader!./AspectRatio.jsx";
-import css from "!!raw-loader!./AspectRatio.css";
+import jsx from "!!raw-loader!./WordBreaker.jsx";
+import css from "!!raw-loader!./WordBreaker.css";
 
-export default function AspectRatioDetail() {
+export default function WordBreakerDetail() {
   return (
     <Detail>
-      <h1>Aspect Ratio</h1>
+      <h1>Word Breaker</h1>
       <h2>React</h2>
       <JsxCode>{jsx}</JsxCode>
       <h2>CSS</h2>
